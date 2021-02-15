@@ -12,7 +12,7 @@
   <img align="left" alt="Anurag's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=aknrg77.aknrg77)
+![](https://visitor-badge.glitch.me/badge?page_id=Arvindvishwakarma.Arvindvishwakarma)
 
 <br />
 
@@ -31,7 +31,7 @@ coffee.Drink();
 }
 ``` -->
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
 <!--   
 **Talking about Personal Stuffs:**
 
