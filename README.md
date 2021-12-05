@@ -1,7 +1,4 @@
 ### Hi there, I'm Arvind Vishwakarma<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- <a href="https://discord.gg/pFh8Ny6">
-  <img align="left" alt="Anurag's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
 <a href="https://twitter.com/arvindvish2588">
   <img align="left" alt="Anurag's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -16,7 +13,7 @@
 
 <br />
 
-Hi, I'm Arvind Vishwakarma, working as a Full Stack Web Developer from India and currently an web intern in [@Paathsala.world](https://paathshala.world/) ,Student of [@Dr. Harisingh A Central Gour University, Sagar](http://www.dhsgsu.ac.in/).
+Hi, I'm Arvind Vishwakarma, working as a Full Stack Web Developer from India and founder at [@RoomsNearYou](https://roomsnearyou.in) and director at [@Softseekers Infotech Private Limited](https://softseekersinfotech.com/) ,Student of [@Dr. Harisingh A Central Gour University, Sagar](http://www.dhsgsu.ac.in/).
 
 <br />
 <!-- 
@@ -31,17 +28,6 @@ coffee.Drink();
 }
 ``` -->
 
- <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
-<!--   
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on building a npm package:wink:;
-- :weary:;I'm currently struggling in Data Structures and Algorithms
-- 🌱 I’m currently learning React and commander.js; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@AnuragK03730860](https://twitter.com/AnuragK03730860);
-- 📝[Resume](https://drive.google.com/file/d/1PUFF1AXbHCXAHKy1p34tFk0Tevel67fM/view?usp=sharing) -->
-<!-- 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
