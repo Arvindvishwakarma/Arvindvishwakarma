@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm Arvind Vishwakarma, working as a Full Stack Web Developer from India and founder at [@RoomsNearYou](https://roomsnearyou.in) and director at [@Softseekers Infotech Private Limited](https://softseekersinfotech.com/) ,Student of [@Dr. Harisingh A Central Gour University, Sagar](http://www.dhsgsu.ac.in/).
+Hi, I'm Arvind Vishwakarma, working as a Full Stack Web Developer from India and founder at [@RoomsNearYou](https://roomsnearyou.in) and director at [@Softseekers Infotech Private Limited](https://softseekersinfotech.com/).
 
 <br />
 <!-- 
