@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/arvind-vishwakarma-573193181/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/arvindgolu/">
+<!-- <a href="https://www.facebook.com/arvindgolu/">
   <img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
+</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Arvindvishwakarma.Arvindvishwakarma)
 
