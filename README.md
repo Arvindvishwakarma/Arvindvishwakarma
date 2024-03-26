@@ -7,7 +7,8 @@
 </h5>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arvindvishwakarma&label=Arvind%27s%20Profile%20Views%20&color=dc143c&style=plastic" alt="Arvind's" /> </p>
-## 🔥 Streak Stats
+
+#🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arvindvishwakarma&theme=algolia" alt="Arvindvishwakarma" /></p>
 
@@ -17,25 +18,23 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Java(Spring Boot), Go],
-  interests: [Research, Open Source]
+  learning : [Golang, Rust],
+  interests: [Web Development, Application Development, Research, Open Source ]
 }
 
 const skills = 
 {
-  languages :[Cpp, Python, Javascript],
+  languages :[JavaScript, TypeScript, Python, Go],
   
-  frameworks:[VueJs(Quasar), Flutter, ExpressJs, LambdaJs, Flask, FastAPI, Django],
+  frameworks && libraries:[ReactJS, React Native, NodeJS, ExpressJS, GraphQL, CSS Framework, RestFul API, NextJS],
+ 
+  databases :[MongoDB, MySql, PostgreSQL, Firebase],
   
-  libraries: [ReactJs]
-  
-  databases :[MySql, PostgreSQL, Firebase, DynamoDb],
-  
-  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere]
+  platforms :[GCP, AWS, Firebase, Heroku, Digital Ocean, Netlify, Vercel, Docker, Kubernetes, Jenkins]
 }
 
 
-Developer dev = new Developer(chiraag-kakar);
+Developer dev = new Developer(arvindvishwakarma);
 
 while(dev.isCoding() && dev.isStuck())  
 {
@@ -44,33 +43,31 @@ while(dev.isCoding() && dev.isStuck())
   dev.pasteCodeInIde();
   dev.feelProfessional();
 }
-
-
 ```
-
-## My Stats
+#🔥 My Stats
 <p>
 <a href="https://github.com/arvindvishwakarma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arvindvishwakarma&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arvindvishwakarma&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-
-## 🛠️ My Skills
-
-
 <br/>
 
-## 🙋‍♀️ Let's Connect
 
-<p align="center">
-  <a href="https://candida18.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+# 🙋‍ Let's Connect
+
+<!-- <p align="center">
+  <a href="https://candida18.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+	<a href="mailtoarvindvish2588@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/arvindvishwakarma"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/arvind-vishwakarma-573193181/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/arvindgolu"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/arvind_vish"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<!--<a href="https://www.youtube.com/channel/"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>-->
 	
 </p>
+
+
+
+
 
