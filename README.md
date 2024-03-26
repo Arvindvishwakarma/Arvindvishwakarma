@@ -8,7 +8,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arvindvishwakarma&label=Arvind%27s%20Profile%20Views%20&color=dc143c&style=plastic" alt="Arvind's" /> </p>
 
-#🔥 Streak Stats
+# 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arvindvishwakarma&theme=algolia" alt="Arvindvishwakarma" /></p>
 
@@ -44,7 +44,7 @@ while(dev.isCoding() && dev.isStuck())
   dev.feelProfessional();
 }
 ```
-#🔥 My Stats
+# 🔥 My Stats
 <p>
 <a href="https://github.com/arvindvishwakarma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arvindvishwakarma&show_icons=true&theme=radical" />
