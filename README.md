@@ -8,7 +8,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arvindvishwakarma&label=Arvind%27s%20Profile%20Views%20&color=dc143c&style=plastic" alt="Arvind's" /> </p>
 
-# 🔥 Streak Stats
+## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arvindvishwakarma&theme=algolia" alt="Arvindvishwakarma" /></p>
 
@@ -44,7 +44,7 @@ while(dev.isCoding() && dev.isStuck())
   dev.feelProfessional();
 }
 ```
-# 🔥 My Stats
+## 🔥 My Stats
 <p>
 <a href="https://github.com/arvindvishwakarma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arvindvishwakarma&show_icons=true&theme=radical" />
@@ -54,9 +54,10 @@ while(dev.isCoding() && dev.isStuck())
 <br/>
 
 
-# 🙋‍ Let's Connect
+## 🙋‍ Let's Connect
 
-<!-- <p align="center">
+<p
+<!--  align="center">
   <a href="https://candida18.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailtoarvindvish2588@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/arvindvishwakarma"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
