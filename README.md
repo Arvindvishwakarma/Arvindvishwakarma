@@ -56,8 +56,8 @@ while(dev.isCoding() && dev.isStuck())
 
 ## 🙋‍ Let's Connect
 
-<p
-<!--  align="center">
+<p align="center">
+<!--  
   <a href="https://candida18.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailtoarvindvish2588@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/arvindvishwakarma"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
