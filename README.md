@@ -17,7 +17,7 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Golang, Rust],
+  learning : [Go, Rust],
   interests: [Web Development, Application Development, Research, Open Source ]
 }
 
@@ -29,7 +29,7 @@ const skills =
  
   databases :[MongoDB, MySql, PostgreSQL, Firebase],
   
-  platforms :[GCP, AWS, Firebase, Heroku, Digital Ocean, Netlify, Vercel, Docker, Kubernetes, Jenkins]
+  platforms :[GCP, AWS, Firebase, Heroku, Digital Ocean, Netlify, Vercel, Docker, Kubernetes, Jenkins, Jira]
 }
 
 
@@ -58,7 +58,7 @@ while(dev.isCoding() && dev.isStuck())
 <p align="center">
 <!--  
   <a href="https://candida18.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailtoarvindvish2588@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:arvindvish2588@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/arvindvishwakarma"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/arvind-vishwakarma-573193181/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/arvindgolu"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
