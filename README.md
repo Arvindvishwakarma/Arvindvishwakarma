@@ -6,7 +6,7 @@
 <h5 align="center">Results-driven Full Stack Developer with 4+ years of experience delivering scalable web applications. Proficient in front-end and back-end technologies, collaborating effectively to meet user requirements. Expertise in diverse programming languages and frameworks for innovative, responsive solutions. Committed to continuous improvement, staying current with emerging technologies. Strong problem-solving skills for robust, secure, and high-performance software. Seeking a dynamic role in a growth-oriented environment to contribute technical acumen and collaborative approach.
 </h5>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arvindvishwakarma&label=Candida%27s%20Profile%20Views%20&color=dc143c&style=plastic" alt="Arvind's" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arvindvishwakarma&label=Arvind%27s%20Profile%20Views%20&color=dc143c&style=plastic" alt="Arvind's" /> </p>
 ## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arvindvishwakarma&theme=algolia" alt="Arvindvishwakarma" /></p>
