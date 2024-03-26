@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I am Arvind Vishwakarma<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-stack+developer;Code+craftsman%2C+web+wizard;Front-end+sorcerer%2C+back-end+architect;Master+of+pixels%2C+server+whisperer;Software+virtuoso%2C+tech+maestro" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Full-stack+developer;Code+craftsman%2C+web+wizard;Front-end+sorcerer%2C+back-end+architect;Master+of+pixels%2C+server+whisperer;Software+virtuoso%2C+tech+maestro" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h5 align="center">Results-driven Full Stack Developer with 4+ years of experience delivering scalable web applications. Proficient in front-end and back-end technologies, collaborating effectively to meet user requirements. Expertise in diverse programming languages and frameworks for innovative, responsive solutions. Committed to continuous improvement, staying current with emerging technologies. Strong problem-solving skills for robust, secure, and high-performance software. Seeking a dynamic role in a growth-oriented environment to contribute technical acumen and collaborative approach.
