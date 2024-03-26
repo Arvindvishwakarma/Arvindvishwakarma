@@ -25,7 +25,7 @@ const skills =
 {
   languages :[JavaScript, TypeScript, Python, Go],
   
-  frameworks && libraries:[ReactJS, React Native, NodeJS, ExpressJS, GraphQL, CSS Framework, RestFul API, NextJS],
+  frameworks && libraries :[ReactJS, React Native, NodeJS, ExpressJS, GraphQL, CSS Framework, RestFul API, NextJS],
  
   databases :[MongoDB, MySql, PostgreSQL, Firebase],
   
