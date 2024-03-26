@@ -1,51 +1,77 @@
-### Hi there, I'm Arvind Vishwakarma<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/arvindvish2588">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/arvind-vishwakarma-573193181/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<!-- <a href="https://www.facebook.com/arvindgolu/">
-  <img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a> -->
+<h1 align="center">Hi , I am Arvind Vishwakarma<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-stack+developer;Code+craftsman%2C+web+wizard;Front-end+sorcerer%2C+back-end+architect;Master+of+pixels%2C+server+whisperer;Software+virtuoso%2C+tech+maestro)](https://git.io/typing-svg)
+</p>
+<hr/>
+<h5 align="center">Results-driven Full Stack Developer with 4+ years of experience delivering scalable web applications. Proficient in front-end and back-end technologies, collaborating effectively to meet user requirements. Expertise in diverse programming languages and frameworks for innovative, responsive solutions. Committed to continuous improvement, staying current with emerging technologies. Strong problem-solving skills for robust, secure, and high-performance software. Seeking a dynamic role in a growth-oriented environment to contribute technical acumen and collaborative approach.
+</h5>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Candida's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Arvindvishwakarma.Arvindvishwakarma)
+## 🔥 Streak Stats
 
-<br />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arvindvishwakarma&theme=algolia" alt="Arvindvishwakarma" /></p>
 
-Hi, I'm Arvind Vishwakarma, working as a Full Stack Web Developer at [@Softseekers Infotech Private Limited](https://softseekersinfotech.com/).
+```js
 
-<br />
-<!-- 
+document.write("Hello World");
+
+var status = 
+{ 
+  learning : [Java(Spring Boot), Go],
+  interests: [Research, Open Source]
+}
+
+const skills = 
+{
+  languages :[Cpp, Python, Javascript],
+  
+  frameworks:[VueJs(Quasar), Flutter, ExpressJs, LambdaJs, Flask, FastAPI, Django],
+  
+  libraries: [ReactJs]
+  
+  databases :[MySql, PostgreSQL, Firebase, DynamoDb],
+  
+  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere]
+}
+
+
+Developer dev = new Developer(chiraag-kakar);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+
+
 ```
-if (coffee.Empty)
-{
-coffee.Refill();
-}
-else
-{
-coffee.Drink();
-}
-``` -->
 
-**Languages and Tools:**  
+## My Stats
+<p>
+<a href="https://github.com/arvindvishwakarma">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arvindvishwakarma&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arvindvishwakarma&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
-
-<!--
-📈 My GitHub Stats-->
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arvindvishwakarma&show_icons=true&theme=gotham" alt="Arvindvishwakarma" />
+## 🛠️ My Skills
 
 
+<br/>
 
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+  <a href="https://candida18.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
 
